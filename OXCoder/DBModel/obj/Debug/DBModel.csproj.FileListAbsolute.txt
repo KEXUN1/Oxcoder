@@ -1,0 +1,11 @@
+E:\course\NET架构与应用\project\oxcoder\OXCoder\DBModel\bin\Debug\DBModel.dll.config
+E:\course\NET架构与应用\project\oxcoder\OXCoder\DBModel\bin\Debug\DBModel.dll
+E:\course\NET架构与应用\project\oxcoder\OXCoder\DBModel\bin\Debug\DBModel.pdb
+E:\course\NET架构与应用\project\oxcoder\OXCoder\DBModel\obj\Debug\DBModel.dll
+E:\course\NET架构与应用\project\oxcoder\OXCoder\DBModel\obj\Debug\DBModel.pdb
+E:\course\NET架构与应用\project\oxcoder\OXCoder\DBModel\obj\Debug\DBModel.csprojResolveAssemblyReference.cache
+C:\Users\SikentKim\Desktop\OXCoder\DBModel\bin\Debug\DBModel.dll.config
+C:\Users\SikentKim\Desktop\OXCoder\DBModel\bin\Debug\DBModel.dll
+C:\Users\SikentKim\Desktop\OXCoder\DBModel\bin\Debug\DBModel.pdb
+C:\Users\SikentKim\Desktop\OXCoder\DBModel\obj\Debug\DBModel.dll
+C:\Users\SikentKim\Desktop\OXCoder\DBModel\obj\Debug\DBModel.pdb

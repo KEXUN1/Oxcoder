@@ -1,0 +1,15 @@
+C:\Users\SikentKim\Desktop\OXCoder\OXCoderClient\bin\OXCoderClient.dll
+C:\Users\SikentKim\Desktop\OXCoder\OXCoderClient\bin\OXCoderClient.pdb
+C:\Users\SikentKim\Desktop\OXCoder\OXCoderClient\bin\BLLImpl.dll
+C:\Users\SikentKim\Desktop\OXCoder\OXCoderClient\bin\DBModel.dll
+C:\Users\SikentKim\Desktop\OXCoder\OXCoderClient\bin\IBLL.dll
+C:\Users\SikentKim\Desktop\OXCoder\OXCoderClient\bin\DALImpl.dll
+C:\Users\SikentKim\Desktop\OXCoder\OXCoderClient\bin\IDAL.dll
+C:\Users\SikentKim\Desktop\OXCoder\OXCoderClient\bin\BLLImpl.pdb
+C:\Users\SikentKim\Desktop\OXCoder\OXCoderClient\bin\DBModel.pdb
+C:\Users\SikentKim\Desktop\OXCoder\OXCoderClient\bin\IBLL.pdb
+C:\Users\SikentKim\Desktop\OXCoder\OXCoderClient\bin\DALImpl.pdb
+C:\Users\SikentKim\Desktop\OXCoder\OXCoderClient\bin\IDAL.pdb
+C:\Users\SikentKim\Desktop\OXCoder\OXCoderClient\obj\Debug\OXCoder.csprojResolveAssemblyReference.cache
+C:\Users\SikentKim\Desktop\OXCoder\OXCoderClient\obj\Debug\OXCoderClient.dll
+C:\Users\SikentKim\Desktop\OXCoder\OXCoderClient\obj\Debug\OXCoderClient.pdb

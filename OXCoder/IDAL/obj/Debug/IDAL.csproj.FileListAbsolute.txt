@@ -1,0 +1,14 @@
+E:\course\NET架构与应用\project\oxcoder\OXCoder\IDAL\bin\Debug\IDAL.dll
+E:\course\NET架构与应用\project\oxcoder\OXCoder\IDAL\bin\Debug\IDAL.pdb
+E:\course\NET架构与应用\project\oxcoder\OXCoder\IDAL\bin\Debug\DBModel.dll
+E:\course\NET架构与应用\project\oxcoder\OXCoder\IDAL\bin\Debug\DBModel.pdb
+E:\course\NET架构与应用\project\oxcoder\OXCoder\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+E:\course\NET架构与应用\project\oxcoder\OXCoder\IDAL\obj\Debug\IDAL.dll
+E:\course\NET架构与应用\project\oxcoder\OXCoder\IDAL\obj\Debug\IDAL.pdb
+C:\Users\SikentKim\Desktop\OXCoder\IDAL\bin\Debug\IDAL.dll
+C:\Users\SikentKim\Desktop\OXCoder\IDAL\bin\Debug\IDAL.pdb
+C:\Users\SikentKim\Desktop\OXCoder\IDAL\bin\Debug\DBModel.dll
+C:\Users\SikentKim\Desktop\OXCoder\IDAL\bin\Debug\DBModel.pdb
+C:\Users\SikentKim\Desktop\OXCoder\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+C:\Users\SikentKim\Desktop\OXCoder\IDAL\obj\Debug\IDAL.dll
+C:\Users\SikentKim\Desktop\OXCoder\IDAL\obj\Debug\IDAL.pdb

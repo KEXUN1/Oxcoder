@@ -1,0 +1,4 @@
+E:\course\NET架构与应用\project\oxcoder\OXCoder\BusinessEntity\bin\Debug\BusinessEntity.dll
+E:\course\NET架构与应用\project\oxcoder\OXCoder\BusinessEntity\bin\Debug\BusinessEntity.pdb
+E:\course\NET架构与应用\project\oxcoder\OXCoder\BusinessEntity\obj\Debug\BusinessEntity.dll
+E:\course\NET架构与应用\project\oxcoder\OXCoder\BusinessEntity\obj\Debug\BusinessEntity.pdb
